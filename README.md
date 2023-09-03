@@ -6,6 +6,7 @@ Projeto elaborado por:
 - Andreza Lima
 - Danilo Freitas
 - Luis Felipe Gilisk
-- Patrick
+- Patrick Leite
+
 
 O projeto consiste em utilizar a biblioteca Pandas para realizar tratamento em bases de dados no contexto de otimização de rotas para entregas de materiais escolares para escolas da prefeitura no estado do Rio de Janeiro.
