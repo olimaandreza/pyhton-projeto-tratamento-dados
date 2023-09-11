@@ -1,4 +1,4 @@
-# 📕 pyhton-projeto-tratamento-dados
+# 📕 python-projeto-tratamento-dados
 
 Repositório do projeto desenvolvido no âmbito do módulo de Técnicas de Programação I, na trilha de Engenharia de dados do programa Santander Coders 2023, em parceria com a Ada Tech.
 
