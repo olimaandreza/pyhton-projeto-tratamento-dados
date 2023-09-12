@@ -1,0 +1,588 @@
+{
+    "bbox": [
+        -43.236124,
+        -22.914504,
+        -43.183059,
+        -22.880426
+    ],
+    "routes": [
+        {
+            "summary": {
+                "distance": 19147.8,
+                "duration": 2023.0000000000002
+            },
+            "segments": [
+                {
+                    "distance": 1849.0,
+                    "duration": 301.0,
+                    "steps": [
+                        {
+                            "distance": 449.2,
+                            "duration": 107.8,
+                            "type": 11,
+                            "instruction": "Head west on Rua Amanhecer",
+                            "name": "Rua Amanhecer",
+                            "way_points": [
+                                0,
+                                12
+                            ]
+                        },
+                        {
+                            "distance": 155.3,
+                            "duration": 37.3,
+                            "type": 0,
+                            "instruction": "Turn left onto Rua Interna",
+                            "name": "Rua Interna",
+                            "way_points": [
+                                12,
+                                18
+                            ]
+                        },
+                        {
+                            "distance": 397.3,
+                            "duration": 44.2,
+                            "type": 3,
+                            "instruction": "Turn sharp right onto Rua Péter Lund",
+                            "name": "Rua Péter Lund",
+                            "way_points": [
+                                18,
+                                26
+                            ]
+                        },
+                        {
+                            "distance": 470.1,
+                            "duration": 53.7,
+                            "type": 13,
+                            "instruction": "Keep right onto Viaduto Ataulfo Alves",
+                            "name": "Viaduto Ataulfo Alves",
+                            "way_points": [
+                                26,
+                                45
+                            ]
+                        },
+                        {
+                            "distance": 239.7,
+                            "duration": 25.0,
+                            "type": 6,
+                            "instruction": "Continue straight onto Rua Couto de Magalhães",
+                            "name": "Rua Couto de Magalhães",
+                            "way_points": [
+                                45,
+                                49
+                            ]
+                        },
+                        {
+                            "distance": 75.7,
+                            "duration": 18.2,
+                            "type": 1,
+                            "instruction": "Turn right onto Praça Padre Souza",
+                            "name": "Praça Padre Souza",
+                            "way_points": [
+                                49,
+                                51
+                            ]
+                        },
+                        {
+                            "distance": 61.7,
+                            "duration": 14.8,
+                            "type": 0,
+                            "instruction": "Turn left onto Rua Ébano",
+                            "name": "Rua Ébano",
+                            "way_points": [
+                                51,
+                                52
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "type": 10,
+                            "instruction": "Arrive at Rua Ébano, on the right",
+                            "name": "-",
+                            "way_points": [
+                                52,
+                                52
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "distance": 3096.6,
+                    "duration": 344.6,
+                    "steps": [
+                        {
+                            "distance": 152.8,
+                            "duration": 36.7,
+                            "type": 11,
+                            "instruction": "Head northeast on Rua Ébano",
+                            "name": "Rua Ébano",
+                            "way_points": [
+                                52,
+                                55
+                            ]
+                        },
+                        {
+                            "distance": 35.3,
+                            "duration": 8.5,
+                            "type": 1,
+                            "instruction": "Turn right onto Praça Padre Souza",
+                            "name": "Praça Padre Souza",
+                            "way_points": [
+                                55,
+                                56
+                            ]
+                        },
+                        {
+                            "distance": 112.2,
+                            "duration": 13.5,
+                            "type": 0,
+                            "instruction": "Turn left onto Rua Balanita",
+                            "name": "Rua Balanita",
+                            "way_points": [
+                                56,
+                                57
+                            ]
+                        },
+                        {
+                            "distance": 73.6,
+                            "duration": 8.8,
+                            "type": 0,
+                            "instruction": "Turn left onto Rua Boituva",
+                            "name": "Rua Boituva",
+                            "way_points": [
+                                57,
+                                61
+                            ]
+                        },
+                        {
+                            "distance": 1234.0,
+                            "duration": 120.6,
+                            "type": 5,
+                            "instruction": "Turn slight right onto Rua Célio Nascimento",
+                            "name": "Rua Célio Nascimento",
+                            "way_points": [
+                                61,
+                                92
+                            ]
+                        },
+                        {
+                            "distance": 582.1,
+                            "duration": 62.6,
+                            "type": 1,
+                            "instruction": "Turn right onto Rua Ricardo Machado",
+                            "name": "Rua Ricardo Machado",
+                            "way_points": [
+                                92,
+                                106
+                            ]
+                        },
+                        {
+                            "distance": 906.5,
+                            "duration": 93.9,
+                            "type": 0,
+                            "instruction": "Turn left onto Avenida Roberto Dinamite",
+                            "name": "Avenida Roberto Dinamite",
+                            "way_points": [
+                                106,
+                                121
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "type": 10,
+                            "instruction": "Arrive at Avenida Roberto Dinamite, on the left",
+                            "name": "-",
+                            "way_points": [
+                                121,
+                                121
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "distance": 6674.9,
+                    "duration": 673.7,
+                    "steps": [
+                        {
+                            "distance": 43.1,
+                            "duration": 7.8,
+                            "type": 11,
+                            "instruction": "Head south on Praça Argentina",
+                            "name": "Praça Argentina",
+                            "way_points": [
+                                121,
+                                122
+                            ]
+                        },
+                        {
+                            "distance": 165.3,
+                            "duration": 14.9,
+                            "type": 6,
+                            "instruction": "Continue straight onto Rua da Emancipação",
+                            "name": "Rua da Emancipação",
+                            "way_points": [
+                                122,
+                                124
+                            ]
+                        },
+                        {
+                            "distance": 410.1,
+                            "duration": 57.1,
+                            "type": 0,
+                            "instruction": "Turn left onto Rua São Luiz Gonzaga",
+                            "name": "Rua São Luiz Gonzaga",
+                            "way_points": [
+                                124,
+                                135
+                            ]
+                        },
+                        {
+                            "distance": 315.2,
+                            "duration": 34.6,
+                            "type": 2,
+                            "instruction": "Turn sharp left onto Avenida do Exército",
+                            "name": "Avenida do Exército",
+                            "way_points": [
+                                135,
+                                141
+                            ]
+                        },
+                        {
+                            "distance": 1278.3,
+                            "duration": 91.2,
+                            "type": 13,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "way_points": [
+                                141,
+                                152
+                            ]
+                        },
+                        {
+                            "distance": 523.2,
+                            "duration": 67.5,
+                            "type": 13,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "way_points": [
+                                152,
+                                167
+                            ]
+                        },
+                        {
+                            "distance": 312.2,
+                            "duration": 36.5,
+                            "type": 1,
+                            "instruction": "Turn right onto Avenida Francisco Bicalho",
+                            "name": "Avenida Francisco Bicalho",
+                            "way_points": [
+                                167,
+                                171
+                            ]
+                        },
+                        {
+                            "distance": 1043.2,
+                            "duration": 104.4,
+                            "type": 12,
+                            "instruction": "Keep left onto Avenida Francisco Bicalho",
+                            "name": "Avenida Francisco Bicalho",
+                            "way_points": [
+                                171,
+                                190
+                            ]
+                        },
+                        {
+                            "distance": 15.1,
+                            "duration": 3.6,
+                            "type": 1,
+                            "instruction": "Turn right",
+                            "name": "-",
+                            "way_points": [
+                                190,
+                                192
+                            ]
+                        },
+                        {
+                            "distance": 54.2,
+                            "duration": 9.8,
+                            "type": 2,
+                            "instruction": "Turn sharp left onto Avenida Presidente Vargas",
+                            "name": "Avenida Presidente Vargas",
+                            "way_points": [
+                                192,
+                                193
+                            ]
+                        },
+                        {
+                            "distance": 800.0,
+                            "duration": 64.7,
+                            "type": 6,
+                            "instruction": "Continue straight onto Avenida Presidente Vargas",
+                            "name": "Avenida Presidente Vargas",
+                            "way_points": [
+                                193,
+                                203
+                            ]
+                        },
+                        {
+                            "distance": 795.1,
+                            "duration": 70.2,
+                            "type": 1,
+                            "instruction": "Turn right onto Rua General Caldwell",
+                            "name": "Rua General Caldwell",
+                            "way_points": [
+                                203,
+                                213
+                            ]
+                        },
+                        {
+                            "distance": 211.9,
+                            "duration": 28.8,
+                            "type": 0,
+                            "instruction": "Turn left onto Avenida Henrique Valadares",
+                            "name": "Avenida Henrique Valadares",
+                            "way_points": [
+                                213,
+                                217
+                            ]
+                        },
+                        {
+                            "distance": 63.1,
+                            "duration": 15.1,
+                            "type": 4,
+                            "instruction": "Turn slight left onto Praça da Cruz Vermelha",
+                            "name": "Praça da Cruz Vermelha",
+                            "way_points": [
+                                217,
+                                222
+                            ]
+                        },
+                        {
+                            "distance": 541.6,
+                            "duration": 55.6,
+                            "type": 13,
+                            "instruction": "Keep right onto Avenida Henrique Valadares",
+                            "name": "Avenida Henrique Valadares",
+                            "way_points": [
+                                222,
+                                232
+                            ]
+                        },
+                        {
+                            "distance": 4.6,
+                            "duration": 1.7,
+                            "type": 2,
+                            "instruction": "Turn sharp left onto Rua do Lavradio",
+                            "name": "Rua do Lavradio",
+                            "way_points": [
+                                232,
+                                233
+                            ]
+                        },
+                        {
+                            "distance": 98.7,
+                            "duration": 10.2,
+                            "type": 6,
+                            "instruction": "Continue straight onto Rua do Lavradio",
+                            "name": "Rua do Lavradio",
+                            "way_points": [
+                                233,
+                                234
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "type": 10,
+                            "instruction": "Arrive at Rua do Lavradio, on the left",
+                            "name": "-",
+                            "way_points": [
+                                234,
+                                234
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "distance": 7527.3,
+                    "duration": 703.7,
+                    "steps": [
+                        {
+                            "distance": 854.0,
+                            "duration": 73.1,
+                            "type": 11,
+                            "instruction": "Head north on Rua do Lavradio",
+                            "name": "Rua do Lavradio",
+                            "way_points": [
+                                234,
+                                247
+                            ]
+                        },
+                        {
+                            "distance": 197.8,
+                            "duration": 14.2,
+                            "type": 1,
+                            "instruction": "Turn right onto Avenida Mem de Sá",
+                            "name": "Avenida Mem de Sá",
+                            "way_points": [
+                                247,
+                                250
+                            ]
+                        },
+                        {
+                            "distance": 1526.1,
+                            "duration": 152.3,
+                            "type": 0,
+                            "instruction": "Turn left onto Rua Frei Caneca",
+                            "name": "Rua Frei Caneca",
+                            "way_points": [
+                                250,
+                                281
+                            ]
+                        },
+                        {
+                            "distance": 329.2,
+                            "duration": 29.6,
+                            "type": 13,
+                            "instruction": "Keep right onto Rua Joaquim Palhares",
+                            "name": "Rua Joaquim Palhares",
+                            "way_points": [
+                                281,
+                                289
+                            ]
+                        },
+                        {
+                            "distance": 12.0,
+                            "duration": 4.3,
+                            "type": 12,
+                            "instruction": "Keep left",
+                            "name": "-",
+                            "way_points": [
+                                289,
+                                290
+                            ]
+                        },
+                        {
+                            "distance": 3282.5,
+                            "duration": 229.1,
+                            "type": 12,
+                            "instruction": "Keep left",
+                            "name": "-",
+                            "way_points": [
+                                290,
+                                336
+                            ]
+                        },
+                        {
+                            "distance": 726.1,
+                            "duration": 57.0,
+                            "type": 13,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "way_points": [
+                                336,
+                                351
+                            ]
+                        },
+                        {
+                            "distance": 174.8,
+                            "duration": 41.9,
+                            "type": 1,
+                            "instruction": "Turn right onto Rua Retiro Saudoso",
+                            "name": "Rua Retiro Saudoso",
+                            "way_points": [
+                                351,
+                                353
+                            ]
+                        },
+                        {
+                            "distance": 356.4,
+                            "duration": 85.5,
+                            "type": 6,
+                            "instruction": "Continue straight onto Rua Retiro Saudoso",
+                            "name": "Rua Retiro Saudoso",
+                            "way_points": [
+                                353,
+                                363
+                            ]
+                        },
+                        {
+                            "distance": 68.5,
+                            "duration": 16.5,
+                            "type": 0,
+                            "instruction": "Turn left onto Rua Amanhecer",
+                            "name": "Rua Amanhecer",
+                            "way_points": [
+                                363,
+                                365
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "type": 10,
+                            "instruction": "Arrive at Rua Amanhecer, on the left",
+                            "name": "-",
+                            "way_points": [
+                                365,
+                                365
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "bbox": [
+                -43.236124,
+                -22.914504,
+                -43.183059,
+                -22.880426
+            ],
+            "geometry": "vzsjC|myfG@H^x@d@l@jDfCZZBFJLNTRPhCnBh@TdBxAZs@Vc@NOx@m@f@g@T]Vr@FX\\\\fBVv@Zl@xApBtCvDd@t@NjAEh@Kh@ShAEROf@AT@VBRFRNTLLTJTBpCZh@JVJr@f@dAzAx@jArBnCh@t@`AnAw@r@o@j@dAzAeA{A[a@oAcBn@k@cCeDy@j@OJQFU@KCOIkA_BSk@Cc@Bc@b@gDDuAAuAKeAYwA]cA[q@MSeAwAqBiCc@m@SUa@k@Sa@]kAMsADaALw@Xs@LUTUl@s@zCyCpAqAxA}ALRvAtDd@pA`AfCh@pAp@jBDLp@fBBHRd@Pf@h@xA`@fAPXzAO`C]|@Mj@IxD_@bBKbDO|AGj@@jBDnANh@HpBq@vBu@fE_BjACn@GvFW@a@DYlByITk@Zq@DSBQ@WD[DGbCmAyByB_BaByB{BYUIKYs@M}Ai@wDWgAmAiDEYA[@_@FWHW\\\\c@fj@o[r@QzAQd@Ir@]h@i@LUHUH]Dc@GeBWmG]oC?C@YHQr@CfEKtGU\\\\CfAq@^Wd@a@LSLYVw@F[HcA?i@Ag@Ee@c@oBYsAo@wC{@}Dw@kDq@{CcBsHqA}FPCF@_@cBIa@iAeF{@sDaByHoAaFe@{AMm@YmAaAiEUcA|@Sp@MrAYjAU|Be@vE_AfFeAnE{@f@QnFyDcB}G@WR[Nk@CUGQKMSMa@EI?KKq@cC]sAYgAwAyFaAuDOm@}@eDAYG@cDfAo@Rr@`Ex@xELr@f@jCRbARlAv@jEv@~DfA|D|@lCJTRPMpAm@xF[d@`@z@Td@NZf@xEBNRjBH~@XfCJ`Ab@jDNtALlAPfBVtBXhCT`Cx@|HPfAFt@BNJ^X`@|AvBVv@H\\\\L~@zAjIDb@?\\\\ATW|@[d@mAxAo@~@Ub@iC~EIHOBg@GSA]?gBc@eAWg@SIGa@s@c@u@KKKE_@?SJy@vAu@|@QLQJMD{@Fa@BcENgBDyHRqHP_GPu@BgGN_KZi@Da@Hc@\\\\}GnHkAdAs@d@k@ZsBz@{e@tQoAz@a@\\\\g@l@Yd@Up@Oh@I`@KfACjBC|EEpGKr@KhCE^Et@Gd@K`@e@`Ae@n@MJiAdAsDtDcAbAc@b@qArAmDfDmFmBs@U{@Yw@OUI}Bk@oAYq@M]AW?mAF}AHHl@VpA",
+            "way_points": [
+                0,
+                52,
+                121,
+                234,
+                365
+            ],
+            "legs": []
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1694476122446,
+        "query": {
+            "coordinates": [
+                [
+                    -43.22533,
+                    -22.88089
+                ],
+                [
+                    -43.2362,
+                    -22.88957
+                ],
+                [
+                    -43.22746,
+                    -22.89763
+                ],
+                [
+                    -43.18358,
+                    -22.90929
+                ],
+                [
+                    -43.22533,
+                    -22.88089
+                ]
+            ],
+            "profile": "driving-hgv",
+            "format": "json"
+        },
+        "engine": {
+            "version": "7.1.0",
+            "build_date": "2023-07-09T01:31:50Z",
+            "graph_date": "2023-09-03T08:25:27Z"
+        }
+    }
+}
