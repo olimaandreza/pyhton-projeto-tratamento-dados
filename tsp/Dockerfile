@@ -9,6 +9,7 @@ RUN pip install -e ./pyconcorde
 
 COPY ./bigtable.csv /app/data.csv
 COPY ./desafioFINAL.ipynb /app/desafioFINAL.ipynb
+COPY ./desafio.ipynb /app/desafio.ipynb
 
 EXPOSE 8888
 
